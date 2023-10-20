@@ -27,3 +27,6 @@ Simple Tower Defence game made in Python. Tower Defence games is game genre whic
 * #### Support towers - you have 3 support tower in my game: two of them helps you to improve statistics of attack towers: range and damage (I markered them with red color), last one makes you extra money (I markered it with green circle)
 
 ![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/8c21c003-1467-4a21-9e96-61da272a0889)
+
+* ### Tower Menu - each tower has its own menu: you can upgrade it (towers have 3 levels of upgrades that improve their statistics or effects), sell it or change the opponent it targets: you have 3 options: first (first opponent in the range circle), last and strong (enemy with the most HP)
+![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/62d1002a-c2ff-4f2e-9d3c-f4606f523fa3)
