@@ -19,3 +19,6 @@ Simple Tower Defence game made in Python. Tower Defence games is game genre whic
 * ### Enemies - in my game you have 4 types of enemies, they have various health level, this one in red circle is boss, he has the biggest amount of health and ultra ability, which allows him to be immune to any attacks:
 ![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/52c322e8-4dc7-467e-a86b-ba9856527948)
 
+* ### Towers - in my game you have 4 types of enemies, they have various health level, this one in red circle is boss, he has the biggest amount of health and ultra ability, which allows him to be immune to any attacks:
+** a
+
