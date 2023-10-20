@@ -30,3 +30,6 @@ Simple Tower Defence game made in Python. Tower Defence games is game genre whic
 
 * ### Tower Menu - each tower has its own menu: you can upgrade it (towers have 3 levels of upgrades that improve their statistics or effects), sell it or change the opponent it targets: you have 3 options: first (first opponent in the range circle), last and strong (enemy with the most HP)
 ![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/62d1002a-c2ff-4f2e-9d3c-f4606f523fa3)
+
+* ### Win or fail menu - after win or lose you will see menu, in which you could see how many monsters you beat, your progress in beaten rounds and how many stars (money) you earned
+![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/57dd9b4c-2ee1-43aa-8cfb-a96ff9546c66) ![image](https://github.com/maciejsachajdak/PythonGame/assets/119767371/d2775fb0-870d-4419-bcf0-ebd1217cb9a3)
